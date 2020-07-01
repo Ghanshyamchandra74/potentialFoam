@@ -3,7 +3,7 @@ OpenFoam codes for potential flow through non prismatic duct (Steady State).
 Incompressible flow.
 Steady State.
 
-*CODE SEQUENCE
+*EXECUTION SEQUENCE
 blockMesh
 potentialFoam
 paraFoam
